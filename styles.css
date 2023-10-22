@@ -18,7 +18,7 @@ h4 {
   margin-bottom: 30px;
 }  
 .jumbotron {
-  background: linear-gradient(to top, #EAFFD0 0%, #F38181 100%);
+  background: linear-gradient(to top, #618264 0%, #D0E7D2 100%);
   color: #141E46;
   padding: 100px 25px;
   font-family: Montserrat, sans-serif;
@@ -34,7 +34,7 @@ h4 {
   font-size: 50px;
 }
 .logo {
-  color: #f4511e;
+  color: #79AC78;
   font-size: 200px;
 }
 .thumbnail {
@@ -107,7 +107,7 @@ h4 {
 }
 .navbar {
   margin-bottom: 0;
-  background-color: #F38181;
+  background-color: #748E63;
   z-index: 9999;
   border: 0;
   font-size: 12px !important;
@@ -158,7 +158,7 @@ img.myimg{
   padding: 15px;  
 }
 img.myimg:hover {
-  border: 2px solid red;
+  border: 5px solid #F95959;
   padding: 25px;  
 }
 
